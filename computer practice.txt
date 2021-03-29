@@ -1,0 +1,9 @@
+Computer and its applications covers:
+
+Software Enginnering
+Human-Computer interaction
+Games,Graphics and virtual reality
+Networking and distributed system
+Cybersecurity
+Data Science
+Artificial Intelligence
